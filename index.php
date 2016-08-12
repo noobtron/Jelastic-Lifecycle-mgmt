@@ -1,3 +1,3 @@
 <?php
-echo "My Current Version"
+echo "My Current Version";
 ?>
