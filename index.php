@@ -1,5 +1,5 @@
 <?php
-echo "My Current Version<br>";
-echo "I want to do more :)<br>";
-echo "newest configs - oujea";
+echo "Latest version<br>";
+echo "!perjantai<br>";
+echo "";
 ?>
