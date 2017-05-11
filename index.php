@@ -1,5 +1,5 @@
 <?php
 echo "Latest version<br>";
-echo "!tiistai<br>";
+echo "!keskiviikko<br>";
 echo "";
 ?>
