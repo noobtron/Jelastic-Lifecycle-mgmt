@@ -1,3 +1,3 @@
 <?php
-echo ("Tänään on perjantai");
+echo ("Tänään on torstai");
 ?>
